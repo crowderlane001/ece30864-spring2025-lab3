@@ -3,3 +3,8 @@
 Agile development has the advantage of being flexible and efficient for projects where sharp changes can occur; however, it lacks the rigid structure of non-Agile development,
 which could be a disadvantage depending on the project. Additionally, Agile development can take a lot more development money than non-Agile, as budget with non-Agile development is typically
 more static than an Agile counterpart.
+
+2. Explain the role and responsibilities of the Scrum Master vs the Product Owner
+
+The Scrum Master is in charge of all SCRUM-related activities, such as JIRA Tooling, handling stand up meetings, and sprint management. On the other hand,
+the Product Owner sets the direction for the team, handles stakeholders, and product releases.
