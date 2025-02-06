@@ -14,3 +14,9 @@ the Product Owner sets the direction for the team, handles stakeholders, and pro
 The 3 types of meetings include a Sprint Planning Meeting, a Daily Standup, and a Sprint Retrospective Meeting. At a Sprint Planning Meeting, the participants discuss what must 
 be completed in the next sprint, as well as move issues from the backlog to the current sprint. During a Daily Standup, the participants discuss what they're working on that day and
 if there is something blocking progress on their work. During a Sprint Retrospective Meeting, the participants discuss how the sprint went, the work that occurred, and close the sprint. 
+
+4. Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+
+An Epic is an over-arching, major feature for a project that encompasses multiple Stories. A Story is a project requirement written in a few words, 
+and Bug and Task types are children types of a Story. Depending on if something needs to be fixed (Bug) or just a new task or feature to be completed (Task)
+determines which type is used. 
