@@ -8,3 +8,10 @@ more static than an Agile counterpart.
 
 The Scrum Master is in charge of all SCRUM-related activities, such as JIRA Tooling, handling stand up meetings, and sprint management. On the other hand,
 the Product Owner sets the direction for the team, handles stakeholders, and product releases.
+
+
+3. What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+
+The 3 types of meetings include a Sprint Planning Meeting, a Daily Standup, and a Sprint Retrospective Meeting. At a Sprint Planning Meeting, the participants discuss what must
+be completed in the next sprint, as well as move issues from the backlog to the current sprint. During a Daily Standup, the participants discuss what they're working on that day and
+if there is something blocking progress on their work. During a Sprint Retrospective Meeting, the participants discuss how the sprint went, the work that occurred, and close the sprint.
