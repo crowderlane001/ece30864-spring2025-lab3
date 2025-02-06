@@ -1,0 +1,5 @@
+1. What ares some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
+
+Agile development has the advantage of being flexible and efficient for projects where sharp changes can occur; however, it lacks the rigid structure of non-Agile development,
+which could be a disadvantage depending on the project. Additionally, Agile development can take a lot more development money than non-Agile, as budget with non-Agile development is typically
+more static than an Agile counterpart.
